@@ -1,0 +1,336 @@
+,Unnamed: 0,BETROFFENE_ANLAGE,Value,Latitude,Longitude
+0,0,Heyden,Heyden,52.38279238,8.996004114
+1,1,Eltmann,Eltmann,49.983999999999995,10.65137
+2,2,Farge,Farge,53.20206653,8.516153926
+3,3,Burghausen,Burghausen,48.1769,12.84045
+4,4,Itzehoe,Itzehoe,53.966421999999994,9.449486
+5,5,Audorf,Audorf,54.290672,9.722775
+6,6,Schkopau,Schkopau,51.39845463,11.9504201
+7,7,Leitzach 2 M22,Leitzach 2,47.873938,11.87099
+8,8,Plattling GT,Plattling,49.794340000000005,10.1813
+9,9,Heizkraftwerk Altbach/Deizisau GT C,Heizkraftwerk Altbach/Deizisau,48.717611,9.374917
+10,10,Lippendorf VE,Lippendorf,51.182122,12.373287
+11,11,Bexbach A,Bexbach,49.363481,7.237136
+12,12,Staudinger 5,Staudinger,50.088553000000005,8.953399000000001
+13,13,Irsching 5,Irsching,48.76702,11.580033
+14,14,Erzhausen 4,Erzhausen,51.89912,9.92452
+15,15,Braunschweig GT,Braunschweig,52.278611,10.514722
+16,16,EE Niedersachsen,Niedersachsen,51.984761,9.822831
+17,17,Leitzach 2 M21,Leitzach 2,47.873938,11.87099
+18,18,Zolling 5,Zolling,48.45534,11.8019
+19,19,Irsching 4,Irsching,48.76702,11.580033
+20,20,Weiher C,Weiher,49.33413028,7.031355927999999
+21,21,Heizkraftwerk Altbach/Deizisau GT A,Heizkraftwerk Altbach/Deizisau,48.717611,9.374917
+22,22,WP Emsland,Emsland,52.481878,7.306658
+23,23,Heizkraftwerk Altbach/Deizisau GT B,Heizkraftwerk Altbach/Deizisau,48.717611,9.374917
+24,24,Heizkraftwerk Altbach/Deizisau GT E,Heizkraftwerk Altbach/Deizisau,48.717611,9.374917
+25,25,Kraftwerk Walheim GT D,Kraftwerk Walheim,49.017472,9.157389
+26,26,Erzhausen 1,Erzhausen,51.89912,9.92452
+27,27,Erzhausen 2,Erzhausen,51.89912,9.92452
+28,28,Heizkraftwerk Altbach/Deizisau Block 2,Heizkraftwerk Altbach/Deizisau,48.717611,9.374917
+29,29,Leitzach 1 M11,Leitzach 1,47.873938,11.87099
+30,30,Erzhausen 3,Erzhausen,51.89912,9.92452
+31,31,UPM Schongau HKW3,UPM Schongau,47.803187,10.904254
+32,32,Braunschweig DT,Braunschweig,52.278611,10.514722
+33,33,Heizkraftwerk Heilbronn Block 7,Heizkraftwerk Heilbronn,49.177334,9.206318
+34,34,Freimann GT12,Freimann GT 1,48.188278,11.594954
+35,35,Freimann GT11,Freimann GT 1,48.188278,11.594954
+36,36,SHN Cluster Itzehoe West,Itzehoe,53.966421999999994,9.449486
+37,37,Kühtai 2 (Uniper),Kühtai,47.207784,11.005735
+38,38,Pumpspeicherwerk Säckingen RZ TNG,Säckingen,47.565416,7.954035
+39,39,SHN Cluster Kiel Süd,Kiel,54.33945,10.1766
+40,40,Thyrow C (SysRel),Thyrow,52.23015,13.30195
+41,41,Thyrow B (SysRel),Thyrow,52.23015,13.30195
+42,42,München Nord 2,Nord 2,48.180506,11.639612
+43,43,Thyrow D (SysRel),Thyrow,52.23015,13.30195
+44,44,Mercedes_Sindelfingen_GT1,Sindelfingen,48.697222,8.999167
+45,45,SHN Cluster Brunsbüttel,Brunsbüttel,53.89251924,9.201135635
+46,46,HKW_ROEMER_KW,HKW,51.512175,13.97109
+47,47,München Süd GT 61,Süd GT 61,48.1351253,11.5819806
+48,48,Marbach GT 4 (bnBm),Marbach,48.927496999999995,9.230005
+49,49,Goldisthal (Standort),Goldisthal,50.50975864,11.02087498
+50,50,Reservekraftwerk Walheim Block 1,Walheim,49.017472,9.157389
+51,51,Silz 1 (TIWAG),Silz,47.269606,10.967829
+52,52,SWDU_HKW_3B,HKW,51.512175,13.97109
+53,53,Emden 4 GT (KapRes),Emden,53.34217,7.206239999999999
+54,54,Thyrow E (SysRel),Thyrow,52.23015,13.30195
+55,55,EE Bayern,Bayern,47.79714,10.85874
+56,56,INFRA_HOE_GTX1,GT,51.22116,6.73193
+57,57,HKW-OF-EVO,HKW,51.512175,13.97109
+58,58,50H Halle-Dieselstr HKW-BlockB,Halle,51.48096,11.96427
+59,59,50H EnviaTherm Bitterfeld GuD,Bitterfeld,51.633861,12.299357
+60,60,Reservekraftwerk Walheim Block 2,Walheim,49.017472,9.157389
+61,61,50H Neubrandenburg GuD,GuD,51.22138,6.731310000000001
+62,62,50H Hamburg Wedel1,Wedel,53.56695702,9.724445343
+63,63,50H Hamburg Tiefstack GuD,Tiefstack,53.52616631,10.06317616
+64,64,50H Halle-Dieselstr HKW-BlockA,Halle,51.48096,11.96427
+65,65,HKW BARMEN 1,HKW,51.512175,13.97109
+66,66,"Heizkraftwerk Stuttgart-Münster GT 16,17,18",Heizkraftwerk,50.09178,8.53105
+67,67,Irsching 6 (bnBm),Irsching,48.76702,11.580033
+68,68,AVA Cluster Hannover West,Hannover,52.42,9.648611
+69,69,Grosskraftwerk Mannheim Block 8,Mannheim,49.51644467,8.460246482
+70,70,Gebersdorf GT,GT,51.22116,6.73193
+71,71,Zolling GT 2,Zolling,48.45534,11.8019
+72,72,ReserveKW Staudinger 4,Staudinger,50.088553000000005,8.953399000000001
+73,73,SW München KW-Pool,München,48.188278,11.594954
+74,74,Rheinhafen-Dampfkraftwerk Karlsruhe Block 8,Rheinhafen-Dampfkraftwerk,49.0125,8.302778
+75,75,50H Rostock Marienehe,Rostock,54.14282177,12.13287489
+76,76,Zolling GT 1,Zolling,48.45534,11.8019
+77,77,50H Stralsund BHKW+PtH,HKW,51.512175,13.97109
+78,78,DORMAGEN_GT2,GT,51.22116,6.73193
+79,79,Reservekraftwerk Rheinhafen-Dampfkraftwerk Karlsruhe Block 7,Rheinhafen-Dampfkraftwerk,49.0125,8.302778
+80,80,ReserveKW Ingolstadt 3,Ingolstadt,48.750316999999995,11.412153
+81,81,Thyrow A (KapRes),Thyrow,52.23015,13.30195
+82,82,50H Hamburg MMB BHKW PtH,BHKW,49.047474,8.281602000000001
+83,83,Thyrow E (KapRes),Thyrow,52.23015,13.30195
+84,84,Pumpspeicherwerk Wehr RZ TNG,Wehr,47.64529898,7.91819945
+85,85,Linden GKL GT 1,GT,51.22116,6.73193
+86,86,Würzburg GT 2,GT,51.22116,6.73193
+87,87,Linden GKL DT,GKL,52.372917,9.714194
+88,88,AVA Cluster Helmstedt,Helmstedt,52.17237156,10.97682873
+89,89,Hannover (GKH) 1,GKH,52.42,9.648611
+90,90,Linden GKL GT 3,GT,51.22116,6.73193
+91,91,Braunschweig HKWM GT31,KWM,52.3150224,10.09141738
+92,92,Kühtai 1 (TIWAG),Kühtai,47.207784,11.005735
+93,93,Hannover (GKH) 2,GKH,52.42,9.648611
+94,94,SHN Cluster Audorf Süd,Audorf,54.290672,9.722775
+95,95,Markersbach (Standort),Markersbach,50.51938,12.87976
+96,96,Bremen BHKW,HKW,51.512175,13.97109
+97,97,Würzburg GT 1,GT,51.22116,6.73193
+98,98,GuDAnlageM120,GuD,51.22138,6.731310000000001
+99,99,Silz 2 (Uniper),Silz,47.269606,10.967829
+100,100,50H Halle-Dieselstr HKW-BlockC,Halle,51.48096,11.96427
+101,101,Thyrow D (KapRes),Thyrow,52.23015,13.30195
+102,102,Thyrow B (KapRes),Thyrow,52.23015,13.30195
+103,103,INFRA_HOE_GTX3,GT,51.22116,6.73193
+104,104,50H Leipzig Nord GuD,GuD,51.22138,6.731310000000001
+105,105,Reservekraftwerk Heilbronn Block 5,Heilbronn,49.177334,9.206318
+106,106,Ahrensfelde A (KapRes),Ahrensfelde,52.58950001,13.5586524
+107,107,Ahrensfelde B (KapRes),Ahrensfelde,52.58950001,13.5586524
+108,108,Ahrensfelde C (KapRes),Ahrensfelde,52.58950001,13.5586524
+109,109,Ahrensfelde D (KapRes),Ahrensfelde,52.58950001,13.5586524
+110,110,INFRA_HOE_GTX2,GT,51.22116,6.73193
+111,111,Netzreservekraftwerk UPM Schongau,UPM Schongau,47.803187,10.904254
+112,112,Braunschweig HKWN GT,HKW,51.512175,13.97109
+113,113,ReserveKW Staudinger 5,Staudinger,50.088553000000005,8.953399000000001
+114,114,50H Hamburg Tiefstack 2 HKW SK,Tiefstack,53.52616631,10.06317616
+115,115,SHN Cluster Hamburg Nord,Hamburg,53.53188044,10.07459164
+116,116,Netzreservekraftwerk Bexbach A,Bexbach,49.363481,7.237136
+117,117,Grosskraftwerk Mannheim Block 6,Mannheim,49.51644467,8.460246482
+118,118,50H InfraLeuna IKW,IKW,52.1674,14.626970000000002
+119,119,Netzreservekraftwerk Weiher C,Weiher,49.33413028,7.031355927999999
+120,120,Kiel (Küstenkraftwerk gesamt),Kiel,54.33945,10.1766
+121,121,ReserveKW Heyden,Heyden,52.38279238,8.996004114
+122,122,ReserveKW Ingolstadt 4,Ingolstadt,48.750316999999995,11.412153
+123,123,Thyrow C (KapRes),Thyrow,52.23015,13.30195
+124,124,50H Leipzig Süd GuD,GuD,51.22138,6.731310000000001
+125,125,Thyrow A (SysRel),Thyrow,52.23015,13.30195
+126,126,EGM_DTS,GM,50.812318,10.2320784
+127,127,50H Berlin Lichterfelde,Lichterfelde,52.42520804,13.30976486
+128,128,Emsland Block B,Emsland,52.481878,7.306658
+129,129,50H Erfurt-Ost HKW GuD,HKW,51.512175,13.97109
+130,130,50H Berlin Mitte,Mitte,52.51172353,13.4209156
+131,131,Heizkraftwerk Gaisburg Block 3,Heizkraftwerk,50.09178,8.53105
+132,132,OWP UW Emden-Ost,Emden,53.34217,7.206239999999999
+133,133,Heizkraftwerk_Pforzheim,Heizkraftwerk,50.09178,8.53105
+134,134,50H Berlin Reuter West,Reuter,52.532146,13.246072
+135,135,50H_AVA_CR_STW,STW,50.87413,13.39436
+136,136,50H UW Bertikow,Bertikow,53.252132,13.957019
+137,137,Schwarze Pumpe (Standort),Schwarze Pumpe,51.53482028,14.35312271
+138,138,Wilhelmshaven (ENGIE),Wilhelmshaven,53.565819,8.146245
+139,139,EE Hessen,Hessen,50.022602,8.377208999999999
+140,140,Reservekraftwerk Marbach GT 3,Marbach,48.927496999999995,9.230005
+141,141,Boxberg (Standort),Boxberg,51.41626317,14.56194878
+142,142,Grosskraftwerk Mannheim Block 6 und 8,Mannheim,49.51644467,8.460246482
+143,143,50H Halle-Trotha HKW,HKW,51.512175,13.97109
+144,144,Reservekraftwerk Rheinhafen-Dampfkraftwerk Karlsruhe Block 4,Rheinhafen-Dampfkraftwerk,49.0125,8.302778
+145,145,HKW_ROEMER_LM600,HKW,51.512175,13.97109
+146,146,Grosskraftwerk Mannheim Block 9,Mannheim,49.51644467,8.460246482
+147,147,Reservekraftwerk Altbach/Deizisau Block 1,Altbach,48.717611,9.374917
+148,148,Emsland Block D,Emsland,52.481878,7.306658
+149,149,Rostock Kohlekraftwerk,Kohlekraftwerk,50.7055,6.65362
+150,150,Grosskraftwerk Mannheim Block 7,Mannheim,49.51644467,8.460246482
+151,151,50H Berlin Marzahn,Berlin,52.42529,13.517307999999998
+152,152,Rheinhafen-Dampfkraftwerk Karlsruhe Block 7,Rheinhafen-Dampfkraftwerk,49.0125,8.302778
+153,153,Reservekraftwerk Heilbronn Block 6,Heilbronn,49.177334,9.206318
+154,154,Emsland Block C,Emsland,52.481878,7.306658
+155,155,Netzreservekraftwerk Darmstadt/GTKW GT12,Darmstadt,49.884879,8.650067
+156,156,Netzreservekraftwerk Darmstadt/GTKW GT11,Darmstadt,49.884879,8.650067
+157,157,Lippendorf EnBW,Lippendorf,51.182122,12.373287
+158,158,Mehrum,Hohenhameln OT Mehrum,52.3150224,10.09141738
+159,159,Pumpspeicherwerk Glems,Pumpspeicherkraftwerk Glems,48.50499,9.28692
+160,160,Waldeck 1,Waldeck 2,51.167139,9.046832
+161,161,Waldeck 5,Waldeck 2,51.167139,9.046832
+162,162,Waldeck 6,Waldeck 2,51.167139,9.046832
+163,163,Datteln_4,Datteln,51.62952,7.331174000000001
+164,0,AVA Cluster Dollern,Dollern,53.5395,9.5475
+165,1,AVA Cluster Twistetal,Twistetal,51.3369,8.9653
+166,2,Netzreservekraftwerk KMW 2 DT,Mainz,49.9929,8.2473
+167,3,AVA Cluster Sottrum T412,Sottrum,53.1124,9.2317
+168,4,AVA Cluster Stadorf,Stadorf,52.9919,10.395
+169,5,AVA Cluster Elsen,Elsen,51.7411,8.6765
+170,6,Robert Frank 4 GT (KapRes),Landesbergen,52.5581,9.12
+171,7,Gebersdorf 2,Gebersdorf,49.4295,11.0101
+172,8,50H OWP Arcadis Ost 1,Ostsee,54.48,13.41
+173,9,50H OWP Baltic 1+2 Süd MIO,Baltic Sea,54.36,12.4
+174,10,AVA Cluster Lehrte,Lehrte,52.3746,9.9784
+175,11,AVA Cluster Lüneburg T413,Lüneburg,53.2479,10.4161
+176,12,AVA Cluster Lüneburg T412,Lüneburg,53.2479,10.4161
+177,13,AVA Cluster Wechold,Wechold,52.8462,9.1275
+178,14,Knapsack 1,Knapsack ,50.8666632,6.8499966
+179,15,AVA Cluster Ohlensehlen,Ohlensehlen,52.5557,8.9085
+180,16,Gebersdorf 1,Gebersdorf,49.4295,11.01
+181,17,AVA Cluster Sottrum T411 T413,Sottrum,53.1124,9.2317
+182,18,Frankfurt West 3,Frankfurt West,50.1025,8.553
+183,19,Frankfurt West 2,Frankfurt West,50.1025,8.553
+184,20,50H Dresden-Nossen,Nossen,51.0583,13.2949
+185,21,Pumpspeicherwerk Schluchseegruppe Häusern/Waldshut/Witznau RZ TNG,Häusern,47.753,8.1716
+186,22,Frankfurt West 4,Frankfurt West,50.1025,8.553
+187,23,Jänschwalde (Standort),Jänschwalde,51.8594,14.4943
+188,24,AVA Cluster Vörden,Vörden,52.5108,8.0652
+189,25,SHN Cluster Schuby West,Schuby,54.5171,9.4756
+190,26,AVA Cluster Algermissen T411,Algermissen,52.2525,9.9696
+191,27,AVA Cluster Algermissen T412,Algermissen,52.2525,9.9696
+192,28,SHN Cluster Heide West T411 T412,Heide,54.1952,9.1019
+193,29,SHN Cluster Heide West T413,Heide,54.1952,9.1019
+194,30,Vorarlberger Ilwerke,Bregenz,47.5008,9.7423
+195,31,OWP Gode Wind 3 AC160,Nordsee,54.2,7.6
+196,32,SHN Cluster Wilster West,Wilster,53.55,9.22
+197,33,SHN Cluster Husum Nord,Husum Nord,54.4828,9.054
+198,34,Reisach 3,Reisach,48.0443,12.1923
+199,35,Reisach 1,Reisach,48.0443,12.1923
+200,36,Reisach 2,Reisach,48.0443,12.1923
+201,37,Niederrad 1,Niederrad,50.0837, 8.6444
+202,38,Leitzach Pool,Leitzach (Miesbach),47.47,11.53
+203,39,Netzreservekraftwerk HERNE_4,Herne,51.5369,7.2009
+204,40,Netzreservekraftwerk BERGKAMEN_A,Bergkamen,51.6157,7.643
+205,41,Netzreservekraftwerk SCHOLVEN_B,Scholven,51.5886,7.0256
+206,42,Netzreservekraftwerk VOELKLINGEN_MKV,Völklingen,49.2556,6.8589
+207,43,Netzreservekraftwerk VOELKLINGEN_HKV,Völklingen,49.2556,6.8589
+208,44,SHN Cluster Kummerfeld,Kummerfeld,53.6916,9.7909
+209,45,WP Jardelund,Jardelund,54.8254,9.2003
+210,46,STUMMHAFEN_10,Lippholthausen,51.36,7.27
+211,47,WALSUM_10,Walsum,51.5279,6.7238
+212,48,50H_EDIS_CR_GUE_Nord,,,
+213,49,50H_MNS_CR_MA_Nord,,,
+214,50,50H_EDIS_CR_SOW_Nord,,,
+215,51,SHN Cluster Jardelund,Jardelung,54.8254,9.2003
+216,52,50H_EDIS_CR_NHG_Nord,,,
+217,53,BERGKAMEN_A,Bergkamen,51.6157,7.643
+218,54,50H UW Altentreptow,Altentreptow,53.6927,13.2453
+219,55,KMW_KW3,Mainz,49.9929,8.2473
+220,56,LAUSWARD_AGUD,Lausward,51.222,6.731
+221,57,WEISWEILER_F_110,Weisweiler,50.8273,6.3147
+222,58,HAMMUENTROP_10,Uentrop,51.6881,7.9465
+223,59,KMW_KW5,Mainz,49.9929,8.2473
+224,60,50H_MNS_CR_LAU_Nord,,,
+225,61,OWP UW Dörpen-West,Dörpen West,52.982,7.2527
+226,62,OWP Nordergründe,Nordergründe,53.5,8.1
+227,63,GERSTEINW_GTG1 (KapRes),Werne,51.665,7.6314
+228,64,WEISWEILER_VGTG3,Weisweiler,50.8273,6.3147
+229,65,BIBLIS_GT (bnBm),Biblis,49.6883,8.4531
+230,66,GERSTEINW_DTG2 (KapRes),Werne,51.665,7.6314
+231,67,LEIPHEIM_10 (bnBm),Leipheim,48.4495,10.219
+232,68,50H_MNS_CR_RAG,,,
+233,69,50H UW Putlitz,Putlitz,53.2462,12.0427
+234,70,50H UW Wustermark,Wustermark,52.5462,12.9382°
+235,71,GERSTEINW_DTF2 (KapRes),Werne,51.665,7.6314
+236,72,GERSTEINW_GTF1 (KapRes),Werne,51.665,7.6314
+237,73,B¿rse,,,
+238,74,WP Wilstermarsch,Wilstermarsch,53.9197,9.3611
+239,75,50H OWP Baltic Eagle,Offshore,54.49,13.52
+240,76,SHN Cluster Süderdonn T411,Sankt Michaelisdonn,53.9806,9.1138
+241,77,SHN Cluster Süderdonn T412 T413,Sankt Michaelisdonn,53.9806,9.1138
+242,78,50H PV Witznitz,Witznitz,51.9,12.29
+243,79,OWP UW Diele,Diele,53.1209,7.3144
+244,80,50H UW Wessin,Wessin,53.5731,11.7325
+245,81,Wemag CAT Cluster Perleberg 003,Perleberg,53.082,11.8599
+246,82,OWP UW Büttel,Büttel,53.8993,9.2285
+247,83,50H OWP Wikinger,Wikinger Offshore,54.5,14.4
+248,84,50H_EDIS_CR_NHG_Sued,,,
+249,85,SCHOLVEN_B,Scholven,51.5886,7.0256
+250,86,50H_WEMA_CR_GUE,,,
+251,87,50H_EDIS_CR_SOW_Sued,,,
+252,88,BASF-GESAMTEINSPEISG,Basf,49.477409,8.44518
+253,89,50H UW Iven,Iven,53.7965,13.4292
+254,90,WEISWEILERVGT_H3,Weisweiler,50.8273,6.3147
+255,91,50H_MNS_CR_KLM,,,
+256,92,50H OWP Arkona,Cape Arkona,54.6781,13.4266
+257,93,GERSTEINW_K1,Werne,51.665,7.6314
+258,94,50H_EDIS_CR_GSE,,,
+259,95,NIEDERAUSSEM_H,Niederaußem,50.9867,6.6698
+260,96,50H_WEMA_CR_PE,,,
+261,97,WEISWEILER_H,Weisweiler,50.8273,6.3147
+262,98,50H_EDIS_CR_HND,,,
+263,99,GERSTEINW_K1 (KapRes),Werne,51.665,7.6314
+264,100,GUD_HERNE_6,Herne,51.5369,7.2009
+265,101,NIEDERAUSSEM_F,Niederaußem,50.9867,6.6698
+266,102,50H_WEMA_CR_WE,,,
+267,103,VOELKLINGEN_HKV,Völklingen,49.2556,6.8589
+268,104,GERSTEINW_F (KapRes),Werne,51.665,7.6314
+269,105,50H_EDIS_CR_PZS,,,
+270,106,SHN Cluster Lübeck,Lübeck,53.8655,10.686389
+271,107,SHN Cluster Handewitt T414 T415,Handewitt,54.7703,9.3245
+272,108,50H_EDIS_CR_LHG,,,
+273,109,50H_WEMA_CR_PMS,,,
+274,110,50H_EDIS_CR_BW,,,
+275,111,NIEDERAUSSEM_K,Niederaußem,50.9867,6.6698
+276,112,GAMOR_ROEMER,Römerbrücke,49.13,7
+277,113,SHN Cluster Handewitt T411,Handewitt,54.7703,9.3245
+278,114,GERSTEINW_G (KapRes),Werne,51.665,7.6314
+279,115,SHN Cluster Klixbüll,Klixbüll ,54.7944,8.9052
+280,116,SHN Cluster Handewitt T412 T413,Handewitt,54.7703,9.3245
+281,117,50H_WEMA_CR_GOE,,,
+282,118,LAUSWARD_GUDF,Lausward,51.222,6.73
+283,119,WEISWEILER_G,Weisweiler,50.8273,6.3147
+284,120,SHN Cluster Krümmel,Krümmel ,50.5355,7.7223
+285,121,NIEHL-31-GUD,Niehl,50.999,6.9524
+286,122,NIEDERAUSSEM_G,Niederaußem,50.9867,6.6698
+287,123,50H_MNS_CR_GRS,,,
+288,124,50H UW Schönewalde,Schönewalde,51.7937,13.25
+289,125,NEURATH_D,Neurath,46.793,15.4776
+290,126,NIEDERAUSSEM_E,Niederaußem,50.9867,6.6698
+291,127,NEURATH_G,Neurath,46.793,15.4776
+292,128,AMP_WESTNETZ_PLAIDT_CR_WIND,Plaidt,50.3913,7.3904
+293,129,CHEMIEPARK_MARL_KRAFTWERKE,Marl,51.6803,7.1019
+294,130,HERNE_4,Herne,51.5369,7.2009
+295,131,50H_MNS_CR_ADB,,,
+296,132,NEURATH_F,Neurath,46.793,15.4776
+297,133,NEURATH_E,Neurath,46.793,15.4776
+298,134,AMP_LEW_VERTEILNETZ_NORD_CR_PHOTOVOLTAIK,,,
+299,135,AMP_LEW_VERTEILNETZ_SUED_CR_WIND,,,
+300,136,NEURATH_C,Neurath,46.793,15.4776
+301,137,50H_MNS_CR_MA_Sued,,,
+302,138,50H_EDIS_CR_GUE_Sued,,,
+303,139,50H_MNS_CR_LAU_Sued,,,
+304,140,AMP_LEW_VERTEILNETZ_NORD_CR_WIND,,,
+305,141,AMP_LEW_VERTEILNETZ_NORD_CR_SONSTIGE_EE,,,
+306,142,AMP_LEW_VERTEILNETZ_SUED_CR_PHOTOVOLTAIK,,,
+307,143,AMP_LEW_VERTEILNETZ_SUED_CR_SONSTIGE_EE,,,
+308,144,AMP_WESTNETZ_NAHE_CR_WIND,,,
+309,145,50H_TEN_CR_S1_ATF,,,
+310,146,50H_EDIS_CR_THY,,,
+311,147,50H_MNS_CR_PRL_TU,,,
+312,148,50H_AVA_CR_FOE,,,
+313,149,50H_EDIS_CR_EH,,,
+314,150,HERDECKE_H6,Herdecke,51.4032,7.4328
+315,151,50H_EDIS_CR_WU,,,
+316,152,NIEHL-II,Niehl,50.999,6.9524
+317,153,50H_EDIS_CR_PE,,,
+318,154,50H_EDIS_CR_PAS,,,
+319,155,AMP_SYNA_TAUNUS_CR_WIND,Taunus,50.2185,8.417
+320,156,50H_MNS_CR_PUL,,,
+321,157,AMP_WESTNETZ_EIFEL_CR_WIND,Eifel,50.25,6.6667
+322,158,AMP_WESTNETZ_SIERSDORF_CR_WIND,Siersdorf,50.8974,6.2266
+323,159,50H_TEN_CR_M1_EI,,,
+324,160,KNAPSACK_20,Knapsack ,50.8666632,6.8499966
+325,161,50H_TEN_CR_M2_VIB,,,
+326,162,50H_MNS_CR_FRN,,,
+327,163,50H_MNS_CR_JSN,,,
+328,164,AMP_WESTNETZ_TRIER_CR_WIND,Trier,49.7501,6.6372
+329,165,50H_TEN_CR_S2_WD,,,
+330,166,50H_MNS_CR_PRL,,,
+331,167,50H_AVA_CR_WOL,,,
+332,168,HATTINGEN_AIRPRODUCTS(KapRes),Hattingen,7.1912,7.1912
+333,169,HAMMUENTROP_20,Uentrop,51.6881,7.9465
+334,170,50H_EDIS_CR_ATS,,,
