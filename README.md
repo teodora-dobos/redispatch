@@ -1,4 +1,4 @@
-# Analysis of the Redispatch Data for Germany, 2024
+# Redispatch Data Analysis for Germany, 2024
 
 This repository includes an analysis of the redispatch data for Germany, 2024 obtained from [Netztransparenz](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Redispatch). The original dataset does not include the geographic coordinates of the redispatched units, hence it is not possible to locate the measures on the map.
 
