@@ -3,9 +3,9 @@
 This repository includes an analysis of the redispatch data for Germany, 2024 obtained from [Netztransparenz](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Redispatch). The original dataset does not include the geographic coordinates of the redispatched units, hence it is not possible to locate the measures on the map.
 
 ## Key Features
-- Geographic localization of redispatch units using fuzzy matching
-- Geographic analysis 
-- Temporal analysis 
+- Geographic localization of redispatched units using fuzzy matching
+- Geographic analysis of redispatch measures
+- Temporal analysis of redispatch measures
 
 
 ## Data Sources
