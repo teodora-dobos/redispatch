@@ -1,4 +1,4 @@
-# Interactive Visualization of Redispatch Data
+# Interactive Dashboard of Redispatch Data
 
 This repository includes a Python streamlit dashboard app which visualizes the redispatch data for Germany, 2024 obtained from [Netztransparenz](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Redispatch). 
 
