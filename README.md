@@ -12,11 +12,12 @@ Since the original dataset does not include the geographic coordinates of the re
 
 ## Data Sources
 The data used in this project was obtained from the following open sources:
-- Netztransparenz: 
-    - redispatch data for the time interval 31.12.2023 - 31.12.2024: https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Redispatch 
-- Open Power System Data: 
-    - list of conventional power plants from Germany: https://data.open-power-system-data.org/conventional_power_plants/ 
-
+- [Netztransparenz:](https://www.netztransparenz.de/de-de/Systemdienstleistungen/Betriebsfuehrung/Redispatch) 
+    - redispatch data for the time interval 31.12.2023 - 31.12.2024
+- [Open Power System Data:](https://data.open-power-system-data.org/conventional_power_plants/ 
+) 
+    - list of conventional power plants from Germany
+      
 ## Screenshot
 ![image](redispatch/image.png)
 
